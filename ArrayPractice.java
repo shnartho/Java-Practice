@@ -33,7 +33,7 @@ public class ArrayPractice{
         // float,double-0.0
         // boolean false
         // object-null
-
+        //
         // Assigning values to array
         marks[0] = 25;
         marks[1] = 30;
